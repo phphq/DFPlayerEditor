@@ -43,7 +43,6 @@
             this.lblGammaText = new System.Windows.Forms.Label();
             this.btnSaveConfig = new System.Windows.Forms.Button();
             this.lblSetResolutionText = new System.Windows.Forms.Label();
-            this.folderBrowserDialogFindGame = new System.Windows.Forms.FolderBrowserDialog();
             this.lblFacebook = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.trackBarGama)).BeginInit();
             this.SuspendLayout();
@@ -296,7 +295,6 @@
         private System.Windows.Forms.Label lblGammaText;
         private System.Windows.Forms.Button btnSaveConfig;
         private System.Windows.Forms.Label lblSetResolutionText;
-        private System.Windows.Forms.FolderBrowserDialog folderBrowserDialogFindGame;
         private System.Windows.Forms.Label lblFacebook;
     }
 }
